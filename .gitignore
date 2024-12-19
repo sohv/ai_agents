@@ -1,3 +1,3 @@
 .venv/
 news_generator_cohere/.env
-news_generator_cohere/.env
+news_generator_cerebras/.env
